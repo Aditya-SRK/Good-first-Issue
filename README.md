@@ -11,7 +11,7 @@
 
 *This project exists for one reason: to help YOU make your first contribution.*
 
-[Quick Start](#-quick-start-5-minutes) • [Detailed Guide](#-detailed-step-by-step-guide) • [Help](#-stuck-get-help) • [What's Next](#-whats-next)
+[Detailed Guide](#-detailed-step-by-step-guide) • [Help](#-stuck-get-help) • [What's Next](#-whats-next)
 
 </div>
 
@@ -34,25 +34,6 @@ This is a **training ground** for aspiring open source contributors. By adding y
 These skills are the **foundation of open source contribution**. Once you complete this, you'll be ready to contribute to any project on GitHub!
 
 ---
-
-## 🚀 Quick Start (5 Minutes)
-
-**Never used Git before? No problem!** Follow these steps:
-
-### ⚡ Prerequisites Check
-Before starting, make sure you have:
-- [ ] A [GitHub account](https://github.com/signup) (free)
-- [ ] [Git installed](https://git-scm.com/downloads) on your computer
-- [ ] A text editor ([VS Code](https://code.visualstudio.com/) recommended)
-
-**Not sure if Git is installed?** Open your terminal/command prompt and type:
-```bash
-git --version
-```
-If you see a version number, you're ready! If not, [install Git here](https://git-scm.com/downloads).
-
----
-
 ## 📚 Detailed Step-by-Step Guide
 
 ### Step 1️⃣: Fork This Repository
